@@ -1,4 +1,4 @@
-# python-flask-post-api-template
+# Simple template for a Python Flask POST API
 This is a template for making a Flask post API in Python.
 <br>
 For non-backend developers, this is a starting point to start developing APIs in Python's Flask framework.
