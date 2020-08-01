@@ -29,7 +29,13 @@ python index.py
 Fire this API Request any from front end:
 
 URL - 127.0.0.1:5000/json-example  
-Raw JSON Request - {"language":"french", "framework":"flask"}
+Raw JSON Request - {"language":"hindi", "framework":"flask"}
+```
+
+Response woule be:
+
+```
+{"framework": "flask is robust", "language": "hindi is nice"} 
 ```
 
 <br>
