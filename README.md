@@ -1,4 +1,7 @@
 # Simple template for a Python Flask POST API
+
+<img src = "https://pixabay.com/get/52e4dc454e54ad14f1dc8460da293277133cd8e4535274_640.png" width="100" height="100">
+
 This is a template for making a Flask post API in Python.
 <br>
 For non-backend developers, this is a starting point to start developing APIs in Python's Flask framework.
