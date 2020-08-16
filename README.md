@@ -20,10 +20,18 @@ pip install Flask
   
   3. Go to the folder where this repo is downloaded
   
-  4. Enter this 
+  4. Enter this if you are working in <b>dev environment</b>
 
 ```
 python index.py
+```
+
+&nbsp; &nbsp; or for <b>production environment</b> enter this
+
+
+```
+pip install waitress
+python index_prod.py 
 ```
 
 <h4>How to use this API?</h4>
