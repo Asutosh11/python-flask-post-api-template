@@ -6,13 +6,13 @@ This is a template for making a Flask post API in Python.
 <br>
 For non-backend developers, this is a starting point to start developing APIs in Python's Flask framework.
 
-<h4>How to install Flask?</h4>
+<h3>How to install Flask?</h3>
 
 ```
 pip install Flask
 ```
 
-<h4>How to use this file?</h4>
+<h3>How to use this file?</h3>
 
 1. Clone this repo
   
@@ -20,7 +20,7 @@ pip install Flask
   
 3. Go to the folder where this repo is downloaded
 
-<h4>Choosing between development and production environment to run</h4>
+<h3>Choosing between development and production environment to run</h3>
   
 i. Enter this if you are working in <b>dev environment:</b>
 
@@ -38,7 +38,7 @@ pip install waitress
 python index_prod.py 
 ```
 
-<h4>How to use this API?</h4>
+<h3>How to use this API?</h3>
 
 ```
 Fire this API Request any from front end:
