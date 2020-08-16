@@ -20,13 +20,15 @@ pip install Flask
   
   3. Go to the folder where this repo is downloaded
   
-  4. Enter this if you are working in <b>dev environment</b>
+  4.1. Enter this if you are working in <b>dev environment:</b>
 
 ```
 python index.py
 ```
 
-&nbsp; &nbsp; or for <b>production environment</b> enter this
+4.2. Flask is designed to run in debug environment only that that handle request of only one User.<br>
+&nbsp; &nbsp; &nbsp; &nbsp;To make it run in production, we need a dependency called as <b>waitress</b>. <br>
+&nbsp; &nbsp; &nbsp; &nbsp;For <b>production environment</b> enter this:
 
 
 ```
