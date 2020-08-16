@@ -22,7 +22,7 @@ pip install Flask
 
 <h3>Choosing between development and production environment to run</h3>
   
-i. Enter this if you are working in <b>dev environment:</b>
+i. Enter this if you are working in <b>dev environment or on your local computer:</b>
 
 ```
 python index.py
