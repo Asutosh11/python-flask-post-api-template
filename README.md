@@ -12,23 +12,25 @@ For non-backend developers, this is a starting point to start developing APIs in
 pip install Flask
 ```
 
-<h4>How to run this file?</h4>
+<h4>How to use this file?</h4>
 
-  1. Clone this repo
+1. Clone this repo
   
-  2. Open command line or Terminal on your computer
+2. Open command line or Terminal on your computer
   
-  3. Go to the folder where this repo is downloaded
+3. Go to the folder where this repo is downloaded
+
+<h4>Choosing between development and production environment to run</h4>
   
-  4.1. Enter this if you are working in <b>dev environment:</b>
+i. Enter this if you are working in <b>dev environment:</b>
 
 ```
 python index.py
 ```
 
-4.2. Flask is designed to run in debug environment only that that handle request of only one User.<br>
-&nbsp; &nbsp; &nbsp; &nbsp;To make it run in production, we need a dependency called as <b>waitress</b>. <br>
-&nbsp; &nbsp; &nbsp; &nbsp;For <b>production environment</b> enter this:
+  ii. Flask is designed to run in debug environment only that that handle request of only one User.<br>
+  &nbsp; &nbsp; &nbsp; &nbsp;To make it run in production, we need a dependency called as <b>waitress</b>. <br>
+  &nbsp; &nbsp; &nbsp; &nbsp;For <b>production environment</b> enter this:
 
 
 ```
